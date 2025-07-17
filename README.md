@@ -42,3 +42,4 @@ Ultimately, this task not only showcases technical prowess but demonstrates a de
 
 # OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/987b9044-271c-4ac6-a574-0e7272965aaf" />
